@@ -74,4 +74,4 @@ The Holberton Smiling School web pages were developed by sections using the Boot
 
 # Author:
 
-Mthawelanga Matross: [Matross-20](https://github.com/Matross-20)
+Mthawelanga Matross
